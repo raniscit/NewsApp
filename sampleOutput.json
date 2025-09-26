@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tristen Rouse",
+            "title": "In pictures: Deadly flooding in Texas - CNN",
+            "description": "Torrential rain has caused flash flooding in parts of central Texas, killing more than 20 people.",
+            "url": "https://www.cnn.com/2025/07/05/us/gallery/deadly-flooding-texas",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223018766.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-07-06T04:59:00Z",
+            "content": "Torrential rain has caused flash flooding in parts of central Texas, killing at least 50 people.\r\nSearch and rescue teams are still working to find more than 20 girls missing from Camp Mystic, a priv… [+471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "Juan Carlos Blanco, RotoWire",
+            "title": "2025 Salt Lake City Summer League: Jazz win wire-to-wire game over 76ers - NBA",
+            "description": "No. 3 pick VJ Edgecombe drops 28 points on the Jazz in an electrifying debut, but Utah picks up the win behind second-year talent.",
+            "url": "https://www.nba.com/news/2025-salt-lake-city-summer-league-76ers-jazz",
+            "urlToImage": "https://cdn.nba.com/manage/2025/07/edgecombe-sl-070524.jpg",
+            "publishedAt": "2025-07-06T04:50:01Z",
+            "content": "2025 No. 3 overall pick VJ Edgecombe slams home 2 of a game-high 28 points at the 2025 Salt Lake City Summer League.\r\n Download the NBA App2025 Summer League\r\n Jazz 93, 76ers 89:Box Score | Game Deta… [+1945 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Brazil hosts BRICS summit, eager to avoid provoking Trump’s ire - AP News",
+            "description": "Brazil plays host to a summit of the BRICS bloc of developing economies Sunday and Monday during which pressing topics like Israel’s attack on Iran, the humanitarian crisis in Gaza and trade tariffs imposed by U.S. President Donald Trump are expected to be ha…",
+            "url": "https://apnews.com/article/brics-summit-brazil-2025-lula-ee830be326e295fed787032abf43d59a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9e635a8/2147483647/strip/true/crop/5031x2830+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F24%2F49fafff936d4218ac0b630940be7%2F299a1795740f4b6db11c874f310208d7",
+            "publishedAt": "2025-07-06T04:02:00Z",
+            "content": "RIO DE JANEIRO (AP) Brazil will play host to a summit of the BRICS bloc of developing economies Sunday and Monday during which pressing topics like Israels attack on Iran, the humanitarian crisis in … [+5535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "George Steer",
+            "title": "Retail investors reap big gains from ‘buying the dip’ in US stocks - Financial Times",
+            "description": "A record $155bn from individual investors has flowed into Wall Street equities this year, even as markets stumbled",
+            "url": "https://www.ft.com/content/d73a6ddc-d0a7-4aa7-bfbd-809c120cf19d",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F625a6992-7fe0-4ef2-bc1e-47381dfa0d57.jpg?source=next-barrier-page",
+            "publishedAt": "2025-07-06T04:01:08Z",
+            "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT … [+202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Elon Musk says he is launching new America Party - BBC",
+            "description": "The world's richest man says he is setting up a new political organisation called the America Party.",
+            "url": "https://www.bbc.com/news/articles/c1dn04lvgpdo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4760/live/c9dfbb20-59de-11f0-9923-a558932c78ef.jpg",
+            "publishedAt": "2025-07-06T03:44:56Z",
+            "content": "Sean Seddon &amp; Stuart Lau\r\nElon Musk says he is launching a new political party, weeks after dramatically falling out with US President Donald Trump.\r\nThe billionaire announced on his social media… [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Iran’s supreme leader makes first public appearance since Iran-Israel war started - AP News",
+            "description": "Iran’s Supreme Leader Ayatollah Ali Khamenei has made his first public appearance since the 12-day war between Israel and Iran began, attending a mourning ceremony on the eve of Ashoura. His absence during the war suggested heavy security for the Iranian lead…",
+            "url": "https://apnews.com/article/iran-supreme-leader-khamenei-043446abab8fc658d46e5759ae18e58a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6c43a17/2147483647/strip/true/crop/2170x1221+0+113/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F28%2F83a8b15dfc50462d956450b518cd%2F1a2621c0b4fb4b11858199d143200a0f",
+            "publishedAt": "2025-07-06T03:37:00Z",
+            "content": "Iran s Supreme Leader Ayatollah Ali Khamenei on Saturday made his first public appearance since the 12-day war between Israel and Iran began, attending a mourning ceremony on the eve of Ashoura.\r\nKha… [+4249 chars]"
+        }
+    ]
+}
